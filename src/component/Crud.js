@@ -1,5 +1,5 @@
 import React, { Fragment, useState } from "react";
-
+// crud opration
 const Crud = () => {
     const [input , setInput]=useState({
         name : "",
